@@ -4,15 +4,28 @@ Collection of useful VS Code shortcuts
 
 ## Quick Links
 
+- [General](#General)
+
 - [Search And Replace](#Search-And-Replace)
 
 - [Multi Cursor And Selection](#Multi-Cursor-And-Selection)
 
 - [Basic Editing](#Basic-Editing)
 
+- [Navigation](#Navigation)
+
 - [Enhance Editing](#Enhance-Editing)
 
-- [Display](#Display)
+---
+
+## General
+
+| **Shortcuts**                   | **description**     |
+| ------------------------------- | ------------------- |
+| Ctrl + ,                        | open setting        |
+| Ctrl + Shift + N                | New Window instance |
+| Ctrl + W                        | Close Window        |
+| Ctrl + N(When focus in Sidebar) | New File            |
 
 ---
 
@@ -56,19 +69,23 @@ Collection of useful VS Code shortcuts
 
 ---
 
+## Navigation
+
+| **Shortcuts**                       | **description**                        |
+| ----------------------------------- | -------------------------------------- |
+| Ctrl + G                            | Go to line                             |
+| Ctrl + B                            | Toggle sidebar                         |
+| Ctrl + Enter(When focus in Sidebar) | Open file to the side                  |
+| Ctrl + Tab                          | Switch tab in current navigation group |
+| Ctrl + 1(or other number)           | Switch navigation group                |
+
+---
+
 ## Enhance Editing
 
 | **Shortcuts**        | **description**                                |
 | -------------------- | ---------------------------------------------- |
 | Ctrl + Space         | Trigger suggestion to term near current cursor |
 | Ctrl + Shift + Space | Trigger parameter hint                         |
-
----
-
-## Display
-
-| **Shortcuts** | **description** |
-| ------------- | --------------- |
-| Ctrl + ,      | open setting    |
 
 ---
